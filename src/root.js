@@ -19,7 +19,7 @@ const Root = () => (
         <Route path="/readEmp" component={ReadEmp} />
         <Route path="/updateEmp" component={UpdateEmployees} />
         <Route path="/deleteEmp" component={DeleteEmployee} />
-      </div>
+      </div> 
     </Router>
   </Provider>
 )
